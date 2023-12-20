@@ -170,7 +170,7 @@ body{
             margin-top: 0.0rem;
             text-align: center;
             font-size: 2rem;
-            background: var(--secondary);
+            background: url(eyes.png);
         }
         p.answer{
             margin-bottom: 20px;
